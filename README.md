@@ -1,4 +1,4 @@
-# Linux User Manager
+# Linux User Manager - ITI Python Project
 
 Python tool for managing Linux users and groups.
 
